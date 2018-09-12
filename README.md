@@ -1,4 +1,4 @@
-# deep_learning
+# deep learning
 
 Презентации:
 * Введение
