@@ -28,12 +28,18 @@
 * Домашнее задание 
 * Практика
 * Дополнительная литература
+  * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+  * [Delving Deep into Rectifiers:
+Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf)
+* [Dropout: A Simple Way to Prevent Neural Networks from
+Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+
 
 ## Введение в сверточные сети
 * План лекции
 * Слайды: [pdf](/week_5.pdf)
 * Домашнее задание 
-* Практика
+* Практика 
 * Дополнительная литература
 
 
