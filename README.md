@@ -43,11 +43,15 @@ Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf
 * Дополнительная литература
 
 
-## Интерпретация, adversarial examples, style transfer
+## Интерпретация, adversarial examples
 * План лекции
 * Слайды: [pdf](/week_6.pdf)
-* Домашнее задание 
-* Практика
+* Домашнее задание:
+  * [Домашнее задание 3](/HW%203.ipynb)
+* Практика:
+  * [Определение значимых зон](/sm.ipynb)
+  * [Визуализация внутреннего состояния](/Feature%20viz.ipynb)
+  * [Adversarial examples](/Adversarial%20examples.ipynb)
 * Дополнительная литература:
   * [Большая обзорная статья на distill.pub](https://distill.pub/2017/feature-visualization/)
   * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
