@@ -49,8 +49,8 @@ Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf
 * Домашнее задание 
 * Практика
 * Дополнительная литература:
- * [Большая обзорная статья на distill.pub](https://distill.pub/2017/feature-visualization/)
- * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps] (https://arxiv.org/abs/1312.6034)
- * [VisualBackProp: efficient visualization of CNNs] (https://arxiv.org/abs/1611.05418)
- * [SmoothGrad: removing noise by adding noise] (https://arxiv.org/abs/1706.03825)
- * [Пакет Keras-vis, реализующий большинство современных методов визуализации] (https://github.com/raghakot/keras-vis)
+  * [Большая обзорная статья на distill.pub](https://distill.pub/2017/feature-visualization/)
+  * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
+  * [VisualBackProp: efficient visualization of CNNs](https://arxiv.org/abs/1611.05418)
+  * [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825)
+  * [Пакет Keras-vis, реализующий большинство современных методов визуализации](https://github.com/raghakot/keras-vis)
